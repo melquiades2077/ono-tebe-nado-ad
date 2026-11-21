@@ -4,4 +4,4 @@
 
 Для локального просмотра откройте `index.html` в браузере. Сборка и установка зависимостей не требуются.
 
-[Репозиторий проекта](https://github.com/melquiades2077/ono-tebe-nado-ad)
+https://github.com/melquiades2077/ono-tebe-nado-ad
